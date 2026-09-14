@@ -1,5 +1,7 @@
 # Smart Bag Tracking System
 
+🎥 **[Watch the Demo Video on LinkedIn](https://www.linkedin.com/posts/mohamed-fadel-200741313_iot-smarttracking-iotapplications-activity-7371900464600186880-fSy_)**
+
 An IoT and web-based system that brings together GPS tracking, sensor monitoring, and real-time alerts to provide security and convenience for tracking bags. Developed as an **ITI Graduation Project**.
 
 ---
